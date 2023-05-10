@@ -4,7 +4,7 @@ public class Main {
 //Объявление переменных (стоимость билета и бонуса) и ввод их значений с клавиатуры
         float ticketCost = 123345f;
         System.out.println("The cost of a ticket = " + ticketCost + " roubles");
-        int costOfFrequentFlyerMile = 25;
+        int costOfFrequentFlyerMile = 20;
         System.out.println("The cost of a frequent mile = " + costOfFrequentFlyerMile + " roubles");
 //Объявление переменной для вывода
         int NumberOfFrequentFlyerMiles;
